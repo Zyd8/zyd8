@@ -13,7 +13,7 @@
 <hr>
 
 
-Know more on my [website!](lanticse.me)
+Know more on my [website!](https://lanticse.me)
 
 
 ![](https://komarev.com/ghpvc/?username=Zyd8&color=red&style=for-the-badge)
