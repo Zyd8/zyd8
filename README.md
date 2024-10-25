@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Zyldjan Lanticse 👋
+
+![](https://komarev.com/ghpvc/?username=Zyd8&color=red&style=for-the-badge)
+
 
 <!--
 **Zyd8/zyd8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
